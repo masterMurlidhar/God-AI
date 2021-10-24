@@ -10,6 +10,7 @@ An Automation System with Artificial Intelligence Computer Program, Developed Fo
 
     -> Desktop/Laptop running Latest version on Windows10 ;
             -> Download Official Windows10 ISO File; https://www.microsoft.com/en-in/software-download/windows10
+            -> Download official Windows11 ISO File; https://www.microsoft.com/en-us/software-download/windows11
 
     -> Must have an internet connection
 
@@ -51,12 +52,14 @@ An Automation System with Artificial Intelligence Computer Program, Developed Fo
 
 
 # Start Using God-AI, If you got errors, contact me & if you have suggestions, kindly create a pull request !
+
+    >_ E-Mail: masterskywalker.asaiinc@gmail.com
   
 
 
 
 
-# Error Solving ;
+## Error Solving ;
 
 Error-1-> PyAudio Error ?
 
@@ -69,9 +72,9 @@ Error-1-> PyAudio Error ?
                 # Use Tab key to auto complete
 
 
-## This project is being shutdown & it'll be appear in Project-Humanoid with a better core system and UI...
+# This project is being shutdown & it'll be appear in Project-Humanoid with a better core system and UI...
 
 
-# Thanks for your intrest in this project...
+## Thanks for your intrest in this project...
 
 
